@@ -1,0 +1,9 @@
+*.tar.gz
+*.tgz
+.DS_Store
+.env
+.git
+__pycache__/
+airflow_settings.yaml
+astro
+upgrade-test*
